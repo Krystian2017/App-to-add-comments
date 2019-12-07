@@ -1,0 +1,12 @@
+li {
+  list-style-type: none;
+}
+
+button {
+  width: 20px;
+  margin: 5px;
+  padding: 2px;
+  background-color: #f0f8ff;
+  border: none;
+  border-radius: 2px;
+}
